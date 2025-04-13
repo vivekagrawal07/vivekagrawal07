@@ -38,11 +38,12 @@ I'm a passionate **Full Stack Developer** who enjoys creating smart, scalable, a
 
 ### 🌟 Featured Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
+| Project        | Tech Stack | Description |
+|----------------|------------|-------------|
 | [🔗 Sanskriti Finance](https://sanskritifinanceservices.com/) | WordPress, Hostinger | A real-world client website focused on UI, SEO & leads |
 | [🎉 Agresita Fest](https://agresita-vivek-agrawal-projects.vercel.app/) | HTML, CSS, JS | College fest site with real-time schedules & registration |
 | [🧑‍💻 Portfolio](https://portfolio-vivek-agrawal-projects.vercel.app/) | React, Vite, Tailwind | Personal site showcasing projects, skills, and contact info |
+| [🧑‍💻 Resume-Analyzer](https://resume-analyzer-vivek-agrawal-projects.vercel.app/) |React, Vite, TailwindCSS, OpenAI | AI-powered tool that analyzes resumes vs job descriptions, gives feedback, missing skills, and a match score |
 
 ---
 
